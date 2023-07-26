@@ -17,10 +17,10 @@ import java.security.Principal;
 import java.util.Locale;
 import java.util.Optional;
 
-
 /**          Home Controller has been created to set language based on user details             **/
 @Controller
 @Slf4j
+
 public class HomeController {
 
     @Autowired
